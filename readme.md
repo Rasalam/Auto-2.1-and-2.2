@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fuiao1uy1tx1uk1k/branch/setupCI?svg=true)](https://ci.appveyor.com/project/Rasalam/auto-2-1-and-2-2/branch/setupCI)
+[![Build status](https://ci.appveyor.com/api/projects/status/23cppigq1ugs6tg4/branch/setupCI?svg=true)](https://ci.appveyor.com/project/Rasalam/auto-2-1-and-2-2/branch/setupCI)
